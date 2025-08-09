@@ -1,0 +1,14 @@
+weights:
+  skills: 0.45
+  pay: 0.20
+  urgency: 0.20
+  accessibility: 0.15
+params:
+  min_pay_hour: 23.15   # living wage-ish floor (adjust)
+  runway_min_days: 5
+keywords:
+  skills:
+    include: ["python","docker","fastapi","dashboard","etl","ai","resilience"]
+    exclude: ["asbestos","landfill"]
+access:
+  friendly_tags: ["wage subsidy","flexible hours","remote","no address ok"]

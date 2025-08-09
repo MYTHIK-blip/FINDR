@@ -1,0 +1,8 @@
+duckdb
+pydantic>=2.7
+pyyaml
+typer[all]
+rich
+requests
+jinja2
+reportlab
